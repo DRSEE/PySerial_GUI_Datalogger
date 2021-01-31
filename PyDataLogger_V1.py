@@ -116,8 +116,7 @@ show_ports()
 main=Tk()
 main.geometry("800x400+350+400")
 main.title("Serial Data Logger By DRS")
-main.iconbitmap('icon
-                .ico')
+main.iconbitmap('icon.ico')
 main.resizable(False, False)
 main['bg']= 'snow3'
 
