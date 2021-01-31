@@ -1,3 +1,6 @@
+# DRS_ELECTRONIC - 31/01/2021 - V1.00
+# Work with 
+# https://github.com/DRSEE/
 import serial
 import serial.tools.list_ports
 from tkinter import *
