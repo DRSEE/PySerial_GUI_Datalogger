@@ -12,7 +12,7 @@ Le code tourne avec la version Python 3.7.1
 Fonctionne sous W10 autre OS pas testé
 ###############################################################################
 
-###########################[Librairie à installer]#############################
+###########################[Dépendance]#############################
 
 -pyserial
 -threaded
