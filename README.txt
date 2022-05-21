@@ -1,6 +1,6 @@
 #################[GUI_PyDataLogger by DRS_ELECTRONIC]############################
 
-git : https://github.com/DRSEE/GUI_PyDataLogger/
+git : https://github.com/DRSEE/PySerial_GUI_Datalogger
 
 youtube : https://www.youtube.com/channel/UCl9vi6y04pBl-RajOrFJI8g
 
